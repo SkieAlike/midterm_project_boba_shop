@@ -44,14 +44,12 @@ Detailed attributes for events, such as SKU, price, quantity, etc.
 - Transaction-level details
 
 ## Adding Schema Diagram
-You can add an image using:
 
 
 ![Schema Diagram](docs/diagram.png)
 
 
 ## Adding Table Row Counts
-You can add an image using:
 
 
 ![Table Row Counts](docs/table_row_counts.png)
