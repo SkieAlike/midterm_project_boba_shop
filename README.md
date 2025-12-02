@@ -46,16 +46,16 @@ Detailed attributes for events, such as SKU, price, quantity, etc.
 ## Adding Schema Diagram
 You can add an image using:
 
-```
-![Schema Diagram](docs/diagram.png)
-```
 
-## Adding Table Row counts
+![Schema Diagram](docs/diagram.png)
+
+
+## Adding Table Row Counts
 You can add an image using:
 
-```
+
 ![Table Row Counts](docs/table_row_counts.png)
-```
+
 
 <span style="color:red;">კომენტარები და შენიშვნები:</span>
 <ul> <li><span style="color:red;">ვეწამე პერფორმანსის გაუმჯობესებაზე. უფრო მეტი ფართიშენის გაკეთება მინდოდა მარა ვარჩიე primary და foreign key ები მქონოდა დიაგრამისთვის.</span></li>
