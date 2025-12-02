@@ -43,13 +43,13 @@ Detailed attributes for events, such as SKU, price, quantity, etc.
 - Average cart value
 - Transaction-level details
 
-## Adding Schema Diagram
+## Schema Diagram
 
 
 ![Schema Diagram](docs/diagram.png)
 
 
-## Adding Table Row Counts
+## Table Row Counts
 
 
 ![Table Row Counts](docs/table_row_counts.png)
