@@ -1,5 +1,5 @@
 # BobaShop Analytics API
-BobaShop is a online shop for everything related to Bubble Tea.
+BobaShop is a online shop for everything related to Bubble Tea. In this Schema, we store website traffic data.
 ## Overview
 This API provides high‑performance analytics backed by PostgreSQL. It reads from a read‑replica (slave) by default and automatically fails over to the master database if the replica becomes unavailable. Once the replica becomes healthy again, the API switches back automatically.
 
